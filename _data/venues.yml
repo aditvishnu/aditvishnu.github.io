@@ -1,9 +1,20 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+"RNT":
+  url: https://link.springer.com/journal/40993
 
-"PhysRev":
-  url: https://journals.aps.org/
+"ICML":
+  url: https://icml.cc
 
-"Vision":
-  color: "#009f36"
+"NeurIPS":
+  url: https://neurips.cc
+
+"ICLR":
+  url: https://iclr.cc
+
+"UAI":
+  url: https://www.auai.org/
+
+"AISTATS":
+  url: https://aistats.org
+
+"JMLR":
+  url: https://jmlr.org
