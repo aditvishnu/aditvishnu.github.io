@@ -26,4 +26,4 @@ latest_posts:
 
 I am a graduate student in the Machine Learning Lab at the Indian Institute of Science, advised by [Chiranjib Bhattacharyya](https://www.csa.iisc.ac.in/~chiru/). Previously, I completed my undergraduate studies in the [Mathematics Department](https://math.iisc.ac.in) at IISc.
 
-My research focuses on developing algorithms and models for quantum unsupervised learning. 
+My research focuses on developing algorithms and models for quantum unsupervised learning.
