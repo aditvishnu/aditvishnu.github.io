@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://mllab.csa.iisc.ac.in'>ML Lab</a>, <a href='https://csa.iisc.ac.in'>CSA</a>, <a href='https://iisc.ac.in'>IISc Bangalore</a>. #<a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='https://mllab.csa.iisc.ac.in'>ML Lab,</a> <a href='https://csa.iisc.ac.in'>CSA,</a> <a href='https://iisc.ac.in'>IISc Bangalore.</a> #<a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
