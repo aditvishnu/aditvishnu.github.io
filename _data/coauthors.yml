@@ -1,3 +1,15 @@
-"chiru":
-  - firstname: ["Chiranjib", "C.", "C. B.", "Chiranjib Bhattacharyya"]
+"bhattacharyya":
+  - firstname: ["Chiranjib", "C."]
     url: https://www.csa.iisc.ac.in/~chiru/
+
+"kashyap":
+  - firstname: ["Dhruva", "D."]
+    url: https://dhruvakashyap.github.io/
+
+"shastry":
+- firstname: ["Abhay", "A."]
+    url: https://scholar.google.com/citations?user=ayi86ZkAAAAJ&hl=en
+
+"mcspirit":
+  - firstname: ["Eleanor", "E."]
+    url: https://eleanormcspirit.com/
