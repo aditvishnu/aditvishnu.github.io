@@ -27,6 +27,13 @@ ninja.data = [{
           title: 'Joined as a PhD student at the ML lab.',
           description: "",
           section: "News",},{
+        id: 'social-arxiv_id',
+        title: 'Arxiv_id',
+        section: 'Socials',
+        handler: () => {
+          window.open("", "_blank");
+        },
+      },{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
