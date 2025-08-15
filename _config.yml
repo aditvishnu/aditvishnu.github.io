@@ -636,5 +636,5 @@ jekyll_get_json:
 
 jsonresume:
   - education
-  - publications
+  - work
   - awards
