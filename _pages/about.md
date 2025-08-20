@@ -2,13 +2,15 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://mllab.csa.iisc.ac.in'>ML Lab,</a> <a href='https://csa.iisc.ac.in'>CSA,</a> <a href='https://iisc.ac.in'>IISc Bangalore.</a> #<a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: >
+  <span lang="ml">ആദിത് വിഷ്ണു</span> ·
+  <span lang="sa">आदित् विष्णु</span>
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
+  more_info: <a href='https://mllab.csa.iisc.ac.in'>ML Lab,</a> <a href='https://csa.iisc.ac.in'>CSA,</a> <a href='https://iisc.ac.in'>IISc Bangalore.</a>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
