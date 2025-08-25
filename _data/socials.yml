@@ -3,10 +3,10 @@
 # the socials will be displayed in the order they are defined here
 
 # acm_id: # your dl.acm.org/profile/id
-arxiv_id: vishnu_a_1 # your dl.acm.org/profile/id
+arxiv_id: vishnu_a_1 # your arXiv id
 # blogger_url: # your blogger URL
 # bluesky_url: # your bluesky URL
-# dblp_url: https://dblp.org/pid/413/7699.html # your DBLP profile url
+dblp_url: https://dblp.org/pid/413/7699.html # your DBLP profile url
 # discord_id: # your discord id (18-digit unique numerical identifier)
 email: aditvishnu@iisc.ac.in # your email address
 # facebook_id: # your facebook id
