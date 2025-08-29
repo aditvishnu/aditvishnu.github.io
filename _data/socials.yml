@@ -5,7 +5,7 @@
 # acm_id: # your dl.acm.org/profile/id
 arxiv_id: vishnu_a_1 # your arXiv id
 # blogger_url: # your blogger URL
-# bluesky_url: # your bluesky URL
+# bluesky_url: https://bsky.app/profile/aditvishnu.bsky.social # your bluesky URL
 dblp_url: https://dblp.org/pid/413/7699.html # your DBLP profile url
 # discord_id: # your discord id (18-digit unique numerical identifier)
 email: aditvishnu@iisc.ac.in # your email address
@@ -14,7 +14,7 @@ email: aditvishnu@iisc.ac.in # your email address
 github_username: aditvishnu # your GitHub user name
 # gitlab_username: # your GitLab user name
 # ieee_id: # your ieeexplore.ieee.org/author/id
-#inspirehep_id: 1010907 # Inspire HEP author ID
+# inspirehep_id: 2963949 # Inspire HEP author ID
 # instagram_id: # your instagram id
 # kaggle_id: # your kaggle id
 # keybase_username: # your keybase user name
@@ -33,7 +33,7 @@ orcid_id: 0000-0002-0797-580X # your ORCID ID
 # rss_icon: true # set to true to show the RSS icon
 scholar_userid: WwcPb7MAAAAJ # your Google Scholar ID
 # scopus_id: # your profile on Scopus
-# semanticscholar_id: # your Semantic Scholar ID
+semanticscholar_id: 2374052383 # your Semantic Scholar ID
 # spotify_id: # your spotify id
 # stackoverflow_id: # your stackoverflow id
 # telegram_username: # your Telegram user name
@@ -43,7 +43,7 @@ scholar_userid: WwcPb7MAAAAJ # your Google Scholar ID
 # wikidata_id: # your wikidata id
 # wikipedia_id: # your wikipedia id (Case sensitive)
 # work_url: # work page URL
-# x_username: # your X handle
+# x_username: adit_vishnu # your X handle
 # youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 # zotero_username: # your zotero username
 # custom_social: # can be any name here other than the ones already defined above
