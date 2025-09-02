@@ -27,25 +27,11 @@ ninja.data = [{
           title: 'Joined as a PhD student at the ML lab.',
           description: "",
           section: "News",},{
-        id: 'social-arxiv_id',
-        title: 'Arxiv_id',
-        section: 'Socials',
-        handler: () => {
-          window.open("", "_blank");
-        },
-      },{
         id: 'social-bluesky',
         title: 'Bluesky',
         section: 'Socials',
         handler: () => {
           window.open("https://bsky.app/profile/aditvishnu.bsky.social", "_blank");
-        },
-      },{
-        id: 'social-dblp',
-        title: 'DBLP',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://dblp.org/pid/413/7699.html", "_blank");
         },
       },{
         id: 'social-email',
@@ -67,27 +53,6 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://www.linkedin.com/in/adit-vishnu-57487514b", "_blank");
-        },
-      },{
-        id: 'social-orcid',
-        title: 'ORCID',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://orcid.org/0000-0002-0797-580X", "_blank");
-        },
-      },{
-        id: 'social-scholar',
-        title: 'Google Scholar',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://scholar.google.com/citations?user=WwcPb7MAAAAJ", "_blank");
-        },
-      },{
-        id: 'social-semanticscholar',
-        title: 'Semantic Scholar',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://www.semanticscholar.org/author/2374052383", "_blank");
         },
       },{
         id: 'social-x',
