@@ -34,6 +34,13 @@ ninja.data = [{
           window.open("", "_blank");
         },
       },{
+        id: 'social-bluesky',
+        title: 'Bluesky',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://bsky.app/profile/aditvishnu.bsky.social", "_blank");
+        },
+      },{
         id: 'social-dblp',
         title: 'DBLP',
         section: 'Socials',
@@ -81,6 +88,13 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://www.semanticscholar.org/author/2374052383", "_blank");
+        },
+      },{
+        id: 'social-x',
+        title: 'X',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://twitter.com/adit_vishnu", "_blank");
         },
       },{
       id: 'light-theme',
