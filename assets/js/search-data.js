@@ -23,7 +23,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "news-joined-as-a-phd-student-at-the-ml-lab",
+        },{id: "post-hello-world",
+      
+        title: 'Hello World! <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+      
+      description: "Welcome to my blog. This is my first post. Excited to see where this goes!",
+      section: "Posts",
+      handler: () => {
+        
+          window.open("https://aditvishnu.wordpress.com/2025/09/07/hello-world/", "_blank");
+        
+      },
+    },{id: "news-joined-as-a-phd-student-at-the-ml-lab",
           title: 'Joined as a PhD student at the ML lab.',
           description: "",
           section: "News",},{
