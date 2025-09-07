@@ -37,28 +37,28 @@
   ],
   "awards": [
     {
+      "title": "Kishore Vaigyanik Protsahan Yojana Fellowship",
+      "date": "2017-2021",
+      "awarder": "Department of Science and Technology, Govt. of India",
+      "url": "https://www.indiascienceandtechnology.gov.in/nurturing-minds/scholarships/school/kishore-vaigyanik-protsahan-yojana-kvpy"
+    },
+    {
       "title": "Templeton-Ramanujan Fellowship",
       "date": "2018",
       "awarder": "Spirit of Ramanujan Talent Initiative",
       "url": "https://spiritoframanujan.com/"
     },
     {
-      "title": "Kishore Vaigyanik Protsahan Yojana Fellowship",
-      "date": "2017",
-      "awarder": "Department of Science and Technology, Govt. of India",
-      "url": "https://www.indiascienceandtechnology.gov.in/nurturing-minds/scholarships/school/kishore-vaigyanik-protsahan-yojana-kvpy"
+      "title": "National Talent Search Scholarship",
+      "date": "2015-2017",
+      "awarder": "National Council of Educational Research and Training, Govt. of India",
+      "url": "https://www.indiascienceandtechnology.gov.in/nurturing-minds/scholarships/school/national-talent-search-exam-ntse"
     },
     {
       "title": "Tara and Jasubhai Mehta Fellowship",
       "date": "2016",
       "awarder": "Morph.org and PROMYS",
       "url": "https://www.morph.org/"
-    },
-    {
-      "title": "National Talent Search Scholarship",
-      "date": "2015",
-      "awarder": "National Council of Educational Research and Training, Govt. of India",
-      "url": "https://www.indiascienceandtechnology.gov.in/nurturing-minds/scholarships/school/national-talent-search-exam-ntse"
     }
   ]
 }
