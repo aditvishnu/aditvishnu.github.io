@@ -44,6 +44,12 @@ ninja.data = [{
     },{id: "news-joined-as-a-phd-student-at-the-ml-lab",
           title: 'Joined as a PhD student at the ML lab.',
           description: "",
+          section: "News",},{id: "news-presented-a-lightning-talk-at-the-iisc-fujitsu-quantum-computing-workshop",
+          title: 'Presented a lightning talk at the IISc–Fujitsu Quantum Computing Workshop.',
+          description: "",
+          section: "News",},{id: "news-invited-to-speak-at-the-international-workshop-on-quantum-boltzmann-machines-this-december",
+          title: 'Invited to speak at the International Workshop on Quantum Boltzmann Machines this December....',
+          description: "",
           section: "News",},{
         id: 'social-bluesky',
         title: 'Bluesky',
