@@ -37,28 +37,32 @@
   ],
   "awards": [
     {
-      "title": "Kishore Vaigyanik Protsahan Yojana Fellowship",
-      "date": "2017-2021",
-      "awarder": "Department of Science and Technology, Govt. of India",
-      "url": "https://www.indiascienceandtechnology.gov.in/nurturing-minds/scholarships/school/kishore-vaigyanik-protsahan-yojana-kvpy"
-    },
-    {
       "title": "Templeton-Ramanujan Fellowship",
       "date": "2018",
       "awarder": "Spirit of Ramanujan Talent Initiative",
-      "url": "https://spiritoframanujan.com/"
+      "url": "https://spiritoframanujan.com/",
+      "summary": "To attend the Number Theory REU, Emory University (2019)."
     },
     {
-      "title": "National Talent Search Scholarship",
-      "date": "2015-2017",
-      "awarder": "National Council of Educational Research and Training, Govt. of India",
-      "url": "https://www.indiascienceandtechnology.gov.in/nurturing-minds/scholarships/school/national-talent-search-exam-ntse"
+      "title": "Kishore Vaigyanik Protsahan Yojana Fellowship",
+      "date": "2016",
+      "awarder": "Department of Science and Technology, Govt. of India",
+      "url": "https://www.indiascienceandtechnology.gov.in/nurturing-minds/scholarships/school/kishore-vaigyanik-protsahan-yojana-kvpy",
+      "summary": "To attend IISc (2017–2021)."
     },
     {
       "title": "Tara and Jasubhai Mehta Fellowship",
       "date": "2016",
       "awarder": "Morph.org and PROMYS",
-      "url": "https://www.morph.org/"
+      "url": "https://www.morph.org/",
+      "summary": "To attend PROMYS: Student (2016–2017), Counselor (2018–2021), and Head Counselor (2023)."
+    },
+    {
+      "title": "National Talent Search Scholarship",
+      "date": "2015",
+      "awarder": "National Council of Educational Research and Training, Govt. of India",
+      "url": "https://www.indiascienceandtechnology.gov.in/nurturing-minds/scholarships/school/national-talent-search-exam-ntse",
+      "summary": "To attend high school (2015–2017)."
     }
   ]
 }
