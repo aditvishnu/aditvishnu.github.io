@@ -24,6 +24,7 @@ dblp_url: https://dblp.org/pid/413/7699.html # your DBLP profile url
 # linkedin_username: adit-vishnu-57487514b # your LinkedIn user name
 # mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 # medium_username: # your Medium username
+openreview_url: https://openreview.net/profile?id=~Adit_Vishnu1
 orcid_id: 0000-0002-0797-580X # your ORCID ID
 # osf_id: # your OSF ID
 # pinterest_id: # your pinterest id
@@ -42,6 +43,7 @@ semanticscholar_id: 2374052383 # your Semantic Scholar ID
 # whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 # wikidata_id: # your wikidata id
 # wikipedia_id: # your wikipedia id (Case sensitive)
+# wordpress_url: https://aditvishnu.wordpress.com/ # your wordpress URL
 # work_url: # work page URL
 # x_username: adit_vishnu # your X handle
 # youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
