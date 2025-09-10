@@ -72,6 +72,13 @@ ninja.data = [{
           window.open("https://www.linkedin.com/in/adit-vishnu-57487514b", "_blank");
         },
       },{
+        id: 'social-wordpress_url',
+        title: 'Wordpress_url',
+        section: 'Socials',
+        handler: () => {
+          window.open("", "_blank");
+        },
+      },{
         id: 'social-x',
         title: 'X',
         section: 'Socials',
